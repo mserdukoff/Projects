@@ -1,0 +1,153 @@
+mserdukoff@DESKTOP-KGR87NN:~/NLP/GROUPPROJECT$ /bin/python3 /home/mserdukoff/NLP/GROUPPROJECT/DAN/danfinal.py
+Map: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8000/8000 [00:31<00:00, 251.54 examples/s]
+Map: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2000/2000 [00:07<00:00, 274.27 examples/s]
+/home/mserdukoff/.local/lib/python3.10/site-packages/torch/nn/modules/module.py:1518: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+number of steps: 5, loss: 2.76272 time: 2.35942
+accuracy :  0.09954284131526947
+f1 score :  0.018850043416023254
+number of steps: 10, loss: 2.30252 time: 9.40017
+accuracy :  0.0978902280330658
+f1 score :  0.030309509485960007
+number of steps: 15, loss: 2.30308 time: 16.02788
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 20, loss: 2.30218 time: 22.86270
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 25, loss: 2.30263 time: 30.00108
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 30, loss: 2.30253 time: 36.95675
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 35, loss: 2.30296 time: 43.79294
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 40, loss: 2.30302 time: 50.75313
+accuracy :  0.09892061352729797
+f1 score :  0.01895640417933464
+number of steps: 45, loss: 2.30207 time: 57.42477
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 50, loss: 2.30174 time: 65.08946
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 55, loss: 2.30318 time: 73.46455
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 60, loss: 2.30363 time: 82.25913
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 65, loss: 2.30193 time: 91.77778
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 70, loss: 2.30274 time: 101.27214
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 75, loss: 2.30222 time: 111.06309
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 80, loss: 2.30247 time: 120.55603
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 85, loss: 2.30253 time: 130.56738
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 90, loss: 2.30278 time: 139.75229
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 95, loss: 2.30271 time: 149.55159
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 100, loss: 2.30348 time: 159.46745
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 105, loss: 2.30345 time: 168.77445
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 110, loss: 2.30168 time: 178.48771
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 115, loss: 2.30285 time: 186.81062
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 120, loss: 2.30230 time: 195.58190
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 125, loss: 2.30295 time: 204.40225
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 130, loss: 2.30326 time: 213.59825
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 135, loss: 2.30229 time: 221.73516
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 140, loss: 2.30224 time: 230.36019
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 145, loss: 2.30177 time: 238.74570
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 150, loss: 2.30151 time: 246.67019
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 155, loss: 2.30203 time: 254.93500
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 160, loss: 2.30245 time: 263.30817
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 165, loss: 2.30328 time: 270.81175
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 170, loss: 2.30179 time: 277.96769
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 175, loss: 2.30339 time: 285.23063
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 180, loss: 2.30218 time: 292.31977
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 185, loss: 2.30197 time: 299.07359
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 190, loss: 2.30320 time: 305.86292
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 195, loss: 2.30249 time: 312.80632
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 200, loss: 2.30236 time: 319.70321
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 205, loss: 2.30278 time: 326.50285
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 210, loss: 2.30271 time: 333.17023
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 215, loss: 2.30148 time: 339.82917
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 220, loss: 2.30225 time: 346.41218
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 225, loss: 2.30195 time: 353.28005
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 230, loss: 2.30082 time: 360.15778
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 235, loss: 2.30187 time: 366.99406
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 240, loss: 2.30385 time: 373.77745
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+number of steps: 245, loss: 2.30155 time: 380.40416
+accuracy :  0.09932062029838562
+f1 score :  0.019026266410946846
+mserdukoff@DESKTOP-KGR87NN:~/NLP/GROUPPROJECT$ 

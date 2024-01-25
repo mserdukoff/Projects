@@ -1,0 +1,1 @@
+Simple language text detector made with APIs

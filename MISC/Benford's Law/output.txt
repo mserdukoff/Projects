@@ -1,0 +1,22 @@
+Total amount of each digit observed:
+['Ones', 111, 30.1]
+['Twos', 121, 17.6]
+['Threes', 116, 12.5]
+['Fours', 123, 9.7]
+['Fives', 98, 7.9]
+['Sixes', 116, 6.7]
+['Sevens', 110, 5.8]
+['Eights', 93, 5.1]
+['Nines', 112, 4.6]
+
+
+Calculated percentages compared to Benford's Law expected distribution:
+Ones: 11.1 %     COMPARED TO EXPECTED     30.1 %
+Twos: 12.1 %     COMPARED TO EXPECTED     17.6 %
+Threes: 11.6 %     COMPARED TO EXPECTED     12.5 %
+Fours: 12.3 %     COMPARED TO EXPECTED     9.7 %
+Fives: 9.8 %     COMPARED TO EXPECTED     7.9 %
+Sixes: 11.6 %     COMPARED TO EXPECTED     6.7 %
+Sevens: 11.0 %     COMPARED TO EXPECTED     5.8 %
+Eights: 9.3 %     COMPARED TO EXPECTED     5.1 %
+Nines: 11.2 %     COMPARED TO EXPECTED     4.6 %
