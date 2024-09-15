@@ -1,4 +1,3 @@
-These is a showcase of my projects that I have created.
-Each project folder has its own README that describes the project
+This is a showcase of my old projects, most of these are from years back that I did in my free time away from school.
 
-More will be added as I continue to create new projects and programs.
+Today however I am doing more serious projects and those will be listed elsewhere or in their own repositories.
